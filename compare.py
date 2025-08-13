@@ -147,5 +147,5 @@ def compDate():
     match_count = sum(1 for element in str_arr3 if element in dictionary)
     show_info(f"处理完成: 共处理 {len(str_arr3)} 行, 匹配 {match_count} 行", "green")
 
-# 运行主循环
+# 运行主循环0813
 root.mainloop()
